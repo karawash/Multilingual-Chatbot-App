@@ -1,0 +1,1 @@
+pip install nltk pickle numpy pandas json keras flask flask_restful flask_cors flasgger
