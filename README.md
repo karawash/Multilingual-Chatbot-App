@@ -4,7 +4,7 @@ A basic multi-lingual Chatbot in Natural Language Processing (Machine learning) 
 ![Screenshot](image.gif)
 
 
-## Steps to run the code
+## Steps to run the backend and frontend code
 
 ### Backend
 install Python 3
