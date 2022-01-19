@@ -1,5 +1,5 @@
 # Simple_Chatbot_NLU
-A basic multi-lingual Chatbot in Natural Language Processing (Machine learning) with ReactJS frontend and Python backend REST API
+A basic multi-lingual Chatbot in Natural Language Understanding with ReactJS frontend and Python backend REST API
 
 ![Screenshot](image.gif)
 
